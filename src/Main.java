@@ -2,7 +2,7 @@
 
 // OK, I will add ‘Adder‘ and s36148 will add ‘Subtractor‘.
 
-//??hello chel, хелло сынок я твой отец, подростков на разрабе
+//??hello chel
 
 public class Main {
     public static void main(String[] args) {
